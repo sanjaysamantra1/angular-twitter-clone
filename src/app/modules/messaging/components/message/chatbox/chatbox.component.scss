@@ -1,0 +1,13 @@
+.container {
+  .chat {
+    height: 71.5vh;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .container {
+    max-width: 100% !important;
+    padding-left: 1px !important;
+    padding-right: 1px !important;
+  }
+}

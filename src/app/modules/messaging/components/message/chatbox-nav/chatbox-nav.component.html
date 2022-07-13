@@ -1,0 +1,17 @@
+<div class="container mt-2">
+    <div class="profile">
+        <div class="back">
+            <i (click)="backNavigate()" class="fa fa-arrow-left" aria-hidden="true"></i>
+        </div>
+        <img src={{this.specificUser[0].profilelogo}} alt="">
+        <div class="contents">
+            <div class="names">
+                <p>{{this.specificUser[0].username}}</p>
+                <p>@{{this.specificUser[0].username}}</p>
+            </div>
+            <div class="menu">
+                <i class="fa fa-info-circle" aria-hidden="true"></i>
+            </div>
+        </div>
+    </div>
+</div>

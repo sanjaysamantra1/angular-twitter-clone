@@ -1,0 +1,118 @@
+[
+  {
+    "id": 1,
+    "profilelogo": "https://i.pinimg.com/236x/9a/2b/ea/9a2bea6795661d05cb017f026827751e.jpg",
+    "username": "phoebe_05",
+    "profilename": "Phoebe Buffay",
+    "profiledetails": "String",
+    "profilecoverimage": "https://images.unsplash.com/photo-1586672806791-3a67d24186c0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y292ZXIlMjBhcnR8ZW58MHx8MHx8&w=1000&q=80",
+    "followers": 100,
+    "following": 100,
+    "likedtweet": ["2 1"],
+    "retweetedtweet": ["4 1"],
+    "tweet": [
+      {
+        "tweetid": 1,
+        "tweetcontent": "If You Want To Receive Emails About My Upcoming Shows, Then Please Give Me Money So I Can Buy A Computer.",
+        "media": [
+          "https://images.indianexpress.com/2018/01/phoebe-buffay_759.jpg"
+        ],
+        "format": ["image"],
+        "date": "23/3/2022",
+        "time": "Mar 23",
+        "reply": 10,
+        "retweet": 10,
+        "likes": 10
+      }
+    ],
+    "messages": "Hi, Good Morning",
+    "msg2logo": "https://media.istockphoto.com/vectors/smiling-young-asian-girl-profile-avatar-vector-icon-vector-id1176363686?k=20&m=1176363686&s=612x612&w=0&h=79RZYXHvGYSSmOaJAHNOnzEGI3Tb7M61nrwgM4MsPVQ=",
+    "msg2": "Hello !"
+  },
+  {
+    "id": 2,
+    "profilelogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSesrkIMbAYPSbSFgF8UNzw-l2g7fKJhpQrug&usqp=CAU",
+    "username": "ross_geller",
+    "profilename": "Ross",
+    "profiledetails": "We were on a break!",
+    "profilecoverimage": "https://images.unsplash.com/photo-1586672806791-3a67d24186c0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y292ZXIlMjBhcnR8ZW58MHx8MHx8&w=1000&q=80",
+    "followers": 130,
+    "following": 50,
+    "likedtweet": [],
+    "retweetedtweet": [],
+    "tweet": [
+      {
+        "tweetid": 1,
+        "tweetcontent": "Please don't take the arts, and those who work in the arts, for granted.  Please help support the artists and institutions in your community make a robust return to live performance.  Thank you!",
+        "media": [],
+        "format": [],
+        "date": "20/02/2021",
+        "time": "Feb 20",
+        "reply": 11,
+        "retweet": 13,
+        "likes": 20
+      }
+    ],
+    "messages": "We were on a Break",
+    "msg2logo": "https://m.media-amazon.com/images/M/MV5BYjFkNGQyMzAtM2Y1Ny00YWFiLWFiYzktYjE0NDQ2OWI5OTIwXkEyXkFqcGdeQXVyODc0NjQ1MTY@._V1_.jpg",
+    "msg2": "You fell asleep !"
+  },
+  {
+    "id": 3,
+    "profilelogo": "https://i.pinimg.com/280x280_RS/bc/b7/e7/bcb7e72dadbe4a852ee27828acbcbb8a.jpg",
+    "username": "chandler_bing",
+    "profilename": "Chandler",
+    "profiledetails": "Hi! I am Chandler. I make jokes when I am uncomfortable.",
+    "profilecoverimage": "https://images.unsplash.com/photo-1586672806791-3a67d24186c0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y292ZXIlMjBhcnR8ZW58MHx8MHx8&w=1000&q=80",
+    "followers": 10,
+    "following": 500,
+    "likedtweet": [],
+    "retweetedtweet": [],
+    "tweet": [
+      {
+        "tweetid": 1,
+        "tweetcontent": "I’m a gym member. I try to go four times a week, but I’ve missed the last twelve hundred times.",
+        "media": [],
+        "format": [],
+        "date": "16/02/2021",
+        "time": "Feb 16",
+        "reply": 8,
+        "retweet": 13,
+        "likes": 20
+      }
+    ],
+    "messages": "Too Many Jokes",
+    "msg2logo": "https://i.pinimg.com/750x/9d/d3/6a/9dd36ad73053303afc71c86b9594bc1e.jpg",
+    "msg2": "How you doing !"
+  },
+  {
+    "id": 4,
+    "profilelogo": "https://pbs.twimg.com/profile_images/730141385869811712/tRPEtG7f_400x400.jpg",
+    "username": "dr_sheldon",
+    "profilename": "Sheldon Cooper",
+    "profiledetails": "Dr. Sheldon Lee Cooper, B.Sc., M.Sc., M.A., Ph.D., Sc.D., Theoretical physicist.",
+    "profilecoverimage": "https://images.unsplash.com/photo-1586672806791-3a67d24186c0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y292ZXIlMjBhcnR8ZW58MHx8MHx8&w=1000&q=80",
+    "followers": 5,
+    "following": 10,
+    "likedtweet": [],
+    "retweetedtweet": [],
+    "tweet": [
+      {
+        "tweetid": 1,
+        "tweetcontent": "This is Enrico Fermi, Richard Feynman, Edward Teller, Otto Frisch, and Zazzles. I was going to name him Hermann von Helmholtz, but he's so zazzy.",
+        "media": [
+          "https://static1.srcdn.com/wordpress/wp-content/uploads/2018/09/The-Big-Bang-Theory-Sheldon-Cats.jpg?q=50&fit=crop&w=740&h=416&dpr=1.5"
+        ],
+        "format": ["image"],
+        "date": "20/01/2021",
+        "time": "Jan 20",
+        "reply": 4,
+        "retweet": 1,
+        "likes": 5
+      }
+    ],
+    "messages": "Well, that's no reason to cry",
+    "msg2logo": "https://media.istockphoto.com/vectors/smiling-young-asian-girl-profile-avatar-vector-icon-vector-id1176363686?k=20&m=1176363686&s=612x612&w=0&h=79RZYXHvGYSSmOaJAHNOnzEGI3Tb7M61nrwgM4MsPVQ=",
+    "msg2": "Hello !"
+  }
+]
